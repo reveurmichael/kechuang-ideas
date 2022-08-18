@@ -1,5 +1,6 @@
 # 大学生科创比赛的 ideas
 
+## Examples (已有充实基础，需要慢慢完善)
 
 - [河道塑料垃圾检测](https://github.com/m2dsupsdlclass/project-surfrider)
 
@@ -9,4 +10,4 @@
 
 ## 更多 ideas, 请访问：
 
-https://gitee.com/lundechen/kechuang-ideas
+- https://gitee.com/lundechen/kechuang-ideas
